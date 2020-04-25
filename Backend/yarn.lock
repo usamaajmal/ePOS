@@ -7120,9 +7120,9 @@ rc-input-number@^4.5.0:
     rmc-feedback "^2.0.0"
 
 rc-util@^4.5.1:
-  version "4.20.4"
-  resolved "https://registry.yarnpkg.com/rc-util/-/rc-util-4.20.4.tgz#a584e068ec54df0b2f4656f2a4d09689f2b3e750"
-  integrity sha512-9RNX7PXTD27xsfsrI4nxRrx29veWGYWpWDtNClXc6REevN5fSarenVHHVlgheLGLIFFRs83LylwW8Xq/QcKcyQ==
+  version "4.20.5"
+  resolved "https://registry.yarnpkg.com/rc-util/-/rc-util-4.20.5.tgz#f7c77569e971ae6a8ad56f899cadd22275398325"
+  integrity sha512-f67s4Dt1quBYhrVPq5QMKmK3eS2hN1NNIAyhaiG0HmvqiGYAXMQ7SP2AlGqv750vnzhJs38JklbkWT1/wjhFPg==
   dependencies:
     add-dom-event-listener "^1.1.0"
     prop-types "^15.5.10"
